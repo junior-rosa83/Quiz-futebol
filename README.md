@@ -1,7 +1,7 @@
 <h1 align="center"> Quiz de futebol </h1>
 
 <p align="center">
-  <a href="https://junior-rosa83.github.io/Projeto-Focus-Timer/">Link do projeto</a>
+  <a href="https://junior-rosa83.github.io/Quiz-futebol/">Link do projeto</a>
 </p>
 
 <p align="center">
